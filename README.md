@@ -31,7 +31,7 @@ spec → plan → tasks → implement → review
 在项目根目录执行：
 
 ```bash
-bash <(curl -fsSL https://github.com/yy3420/sdd-dev/main/install-sdd.sh)
+bash <(curl -fsSL https://raw.githubusercontent.com/yy3420/sdd-dev/main/install-sdd.sh)
 ```
 
 安装完成后，当前项目会多出：
